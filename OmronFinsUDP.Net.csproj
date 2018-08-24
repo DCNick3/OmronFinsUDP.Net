@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>OmronFinsUDP.Net</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>DCNick3</Authors>
+    <PackageTags>omron;fins;plc</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/DCNick3/OmronFinsUDP.Net</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/DCNick3/OmronFinsUDP.Net</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
